@@ -105,10 +105,7 @@ const Section2: React.FC = () => {
                     </a>
                   </div>
                   <div className="uc_top_pic">
-                    <img
-                      src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/watch1.jpg"
-                      alt="Product"
-                    />
+                    <img src="/watch1.jpg" alt="Product" />
                   </div>
                 </div>
                 <div className="uc_white_product_box_inner">
@@ -153,10 +150,7 @@ const Section2: React.FC = () => {
                     </a>
                   </div>
                   <div className="uc_top_pic">
-                    <img
-                      src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/watch2.jpg"
-                      alt="Product"
-                    />
+                    <img src="/watch2.jpg" alt="Product" />
                   </div>
                 </div>
                 <div className="uc_white_product_box_inner">
@@ -201,10 +195,7 @@ const Section2: React.FC = () => {
                     </a>
                   </div>
                   <div className="uc_top_pic">
-                    <img
-                      src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/watch3.jpg"
-                      alt="Product"
-                    />
+                    <img src="/watch3.jpg" alt="Product" />
                   </div>
                 </div>
                 <div className="uc_white_product_box_inner">

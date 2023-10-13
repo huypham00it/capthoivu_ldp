@@ -45,7 +45,7 @@ export default class SimpleSlider extends Component {
             <div className="uc_author">
               <img
                 className="uc_author_avatar"
-                src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/1_1.jpg"
+                src="/1_1.jpg"
                 height="48"
                 width="48"
                 alt=""
@@ -66,7 +66,7 @@ export default class SimpleSlider extends Component {
             <div className="uc_author">
               <img
                 className="uc_author_avatar"
-                src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/2.jpg"
+                src="/2.jpg"
                 height="48"
                 width="48"
                 alt=""
@@ -87,7 +87,7 @@ export default class SimpleSlider extends Component {
             <div className="uc_author">
               <img
                 className="uc_author_avatar"
-                src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/3.jpg"
+                src="/3.jpg"
                 height="48"
                 width="48"
                 alt=""
@@ -108,7 +108,7 @@ export default class SimpleSlider extends Component {
             <div className="uc_author">
               <img
                 className="uc_author_avatar"
-                src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/4.jpg"
+                src="/4.jpg"
                 height="48"
                 width="48"
                 alt=""

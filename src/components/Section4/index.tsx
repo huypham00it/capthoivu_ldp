@@ -100,10 +100,7 @@ const Section4: React.FC = () => {
                 id="uc_uc_product_widget182180"
               >
                 <div className="uc_product_widget_image">
-                  <img
-                    src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/fresh1.png"
-                    alt="Mens Jacket"
-                  />
+                  <img src="/fresh1.png" alt="Mens Jacket" />
                   <div className="uc_price" style={{ background: "#1b263f" }}>
                     <span className="amount">
                       <span className="dollar">$</span> 22
@@ -138,10 +135,7 @@ const Section4: React.FC = () => {
                 id="uc_uc_product_widget199381"
               >
                 <div className="uc_product_widget_image">
-                  <img
-                    src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/fresh2.png"
-                    alt="Mens Shoes"
-                  />
+                  <img src="/fresh2.png" alt="Mens Shoes" />
                   <div className="uc_price" style={{ background: "#1b263f" }}>
                     <span className="amount">
                       <span className="dollar">$</span> 55
@@ -176,10 +170,7 @@ const Section4: React.FC = () => {
                 id="uc_uc_product_widget201767"
               >
                 <div className="uc_product_widget_image">
-                  <img
-                    src="http://bloxthemes.net/landing-pages/uploads/images/blox_page_builder/fresh3.png"
-                    alt="Mens Ties"
-                  />
+                  <img src="/fresh3.png" alt="Mens Ties" />
                   <div className="uc_price" style={{ background: "#1b263f" }}>
                     <span className="amount">
                       <span className="dollar">$</span> 650
